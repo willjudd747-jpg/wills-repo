@@ -1,0 +1,6 @@
+Origin: Will's Repo
+Label: Will's Repo
+Suite: stable
+Version: 1.0
+Architecture: iphoneos-arm64
+Description: My personal Sileo repository
